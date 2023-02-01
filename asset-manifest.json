@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/memersclub/static/css/main.487781b5.css",
+    "main.js": "/memersclub/static/js/main.c6c889c1.js",
+    "static/media/Meme.png": "/memersclub/static/media/Meme.d2f3427beb470fd93bab.png",
+    "static/media/1.png": "/memersclub/static/media/1.5563b6b9eb8d8f209ff8.png",
+    "static/media/mclogo1.png": "/memersclub/static/media/mclogo1.6b298ea07c8b9a539c21.png",
+    "index.html": "/memersclub/index.html",
+    "main.487781b5.css.map": "/memersclub/static/css/main.487781b5.css.map",
+    "main.c6c889c1.js.map": "/memersclub/static/js/main.c6c889c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.487781b5.css",
+    "static/js/main.c6c889c1.js"
+  ]
+}
